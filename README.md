@@ -1,8 +1,8 @@
-My #Self 
-This is the first project that I build after learning HTML & CSS at beginner level.
-And I will commited my skill to an extreme level.
+# Flipkart Clone.....
+This is the first project that I built after learning HTML & CSS at the beginner level.
+And I will commit my skills to an extreme level.
 
-In this project I use CSS Element like 
+In this project, I use CSS Elements like 
 * Position
 * Margin
 * Alignment
